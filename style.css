@@ -1,0 +1,19 @@
+
+.lucy{
+    background-image: url(img/lucy.gif);
+    width: 498px;
+    height: 280px;
+    justify-content: center;
+    margin: auto auto;
+}
+
+h2{
+    text-align: center;
+    padding: 300px 0px 0px 0px;
+    color: #FFF;
+    font-family: monospace;
+}
+
+body{
+    background-color: #333;
+}
